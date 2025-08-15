@@ -13,7 +13,7 @@ We start from scratch — installing Python, setting up Jupyter Notebook, and th
 - Clean and preprocess the dataset.
 - Identify **key customer demographics** and **sales trends**.
 - Visualize insights using Python libraries.
-
+ect
 ---
 
 ## 🛠️ Tech Stack & Libraries
@@ -48,4 +48,4 @@ We start from scratch — installing Python, setting up Jupyter Notebook, and th
 ## 📄 How to Run the Project
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/diwali-sales-analysis.git
+   git clone https://github.com/fatima-firdouse/Diwali_sales_analysis_project.git
