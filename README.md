@@ -49,3 +49,8 @@ ect
 1. Clone this repository:
    ```bash
    git clone https://github.com/fatima-firdouse/Diwali_sales_analysis_project.git
+   ```
+   ---
+##  🖋 Author
+- Fatima Firdouse
+
